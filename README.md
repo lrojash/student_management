@@ -1,8 +1,7 @@
 # Student Management
 
 ## The application will manage student enrollment along with the total balance of taking the course
-
-#Technologies
+#Technologies:
 ## Java-OOP
 # Features:
 ## The application will have two users: Admin and Student
